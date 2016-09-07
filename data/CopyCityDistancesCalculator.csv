@@ -1,0 +1,110 @@
+Year,Point A,Point B,Distance_Before,Point B,Point C,Distance_After,Name
+2008,Dublin,Copenhagen,1238,Copenhagen,Munich,841,Kevin Cannon
+2008,New York,Copenhagen,6188,Copenhagen,San Francisco,8784,Adam Little
+2008,Milan,Copenhagen,1159,Copenhagen,San Francisco,8784,Alice Pintus
+2008,Milan,Copenhagen,1159,Copenhagen,Madrid,2072,Francesco Saverio Mondelli
+2008,Chennai,Copenhagen,7418,Copenhagen,Vejle,190,Siddharth Muthyala
+2008,Nærum,Copenhagen,15,Copenhagen,San Francisco,8784,Tobias Toft
+2008,Lisbon,Copenhagen,2477,Copenhagen,Urbino,7940,Nunzia Coco
+2008,London,Copenhagen,955,Copenhagen,Seoul,7940,Mimi Son
+2008,Poznań,Copenhagen,461,Copenhagen,London,955,Marcin Ignac
+2008,London,Copenhagen,955,Copenhagen,Seoul,7940,Mimi Son
+2009,Turin,Copenhagen,1228,Copenhagen,New York,6188,Elena Gianni
+2009,Copenhagen,Copenhagen,0,Copenhagen,London,955,Anders Højmose
+2009,Copenhagen,Copenhagen,0,Copenhagen,London,955,Ulrik Hogrebe
+2009,London,Copenhagen,955,Copenhagen,São Paulo,10423,Pedro Andrade
+2009,Malmo,Copenhagen,28,Copenhagen,Providence,5949,David Sjunnesson
+2009,Aix en Provence,Copenhagen,1442,Copenhagen,Aix en Provence,1442,Benoit Espinola
+2009,Barcelona,Copenhagen,1759,Copenhagen,Copenhagen,0,Ishac Bertran
+2009,London,Copenhagen,955,Copenhagen,New York,6188,Mayo Nissen
+2009,Glasgow,Copenhagen,1049,Copenhagen,London,955,Jennifer Kay
+2009,Venice,Copenhagen,1138,Copenhagen,Beijing,7201,Martina Pagura
+2009,London,Copenhagen,955,Copenhagen,"Trento, Italy",1072,Laura Boffi
+2009,Copenhagen,Copenhagen,0,Copenhagen,Los Angeles,9002,Jesper Svenning
+2011,Portland,Copenhagen,8007,Copenhagen,Seattle,7786,Joshua Noble
+2011,Aarhus,Copenhagen,156,Copenhagen,Copenhagen,0,Alix Gillet-Kirt
+2011,Melbourne,Copenhagen,15986,Copenhagen,Taiwan ,8925,Hao-Ting Chang 
+2011,Reykjavík,Copenhagen,2100,Copenhagen,London,955,Kristjana Guðjónsdóttir
+2011,Dublin,Copenhagen,1238,Copenhagen,Dublin,1238,John Lynch
+2011,Chicago,Copenhagen,6839,Copenhagen,San Francisco,8784,Marco Triverio
+2011,London,Copenhagen,955,Copenhagen,Seoul,7940,Daim Yoon
+2011,London,Copenhagen,955,Copenhagen,London,955,Mac Oosthuizen
+2011,Eindhoven,Copenhagen,663,Copenhagen,Eindhoven,663,Ruben van der Vleuten
+2011,Brisbane,Copenhagen,15574,Copenhagen,San Francisco,8784,Chris Bierbower
+2012,Pune,Copenhagen,6529,Copenhagen,Mumbai,6419,Manas Karambelkar
+2012,New York,Copenhagen,6188,Copenhagen,Copenhagen,0,Sara Krugman
+2012,Glasgow,Copenhagen,1049,Copenhagen,Chicago,6839,Momo Miyazaki
+2012,Berlin,Copenhagen,355,Copenhagen,Vienna,870,Markus Schmeiduch
+2012,Burlington,Copenhagen,5842,Copenhagen,Boston,5886,Drew Stock
+2012,New York,Copenhagen,6188,Copenhagen,Chicago,6839,Katie Kindinger
+2012,Johannesburg,Copenhagen,9222,Copenhagen,Utrecht,629,Andrew Spitz
+2012,Athens,Copenhagen,2136,Copenhagen,Munich,841,Kosta Frantzis
+2012,Vancouver,Copenhagen,7642,Copenhagen,Copenhagen,0,Andrew Nip
+2013,Munich,Copenhagen,841,Copenhagen,Bangalore,7264,Ankkit Modi
+2013,Lisbon,Copenhagen,2477,Copenhagen,London,955,Sara Salsinha
+2013,New York,Copenhagen,6188,Copenhagen,New York,6188,Lasse Korsgaard
+2013,Toronto,Copenhagen,6249,Copenhagen,Copenhagen,0,Jane Wong
+2013,Seoul,Copenhagen,7940,Copenhagen,Auckland,17529,Ritika Mathur
+2013,London,Copenhagen,955,Copenhagen,London,955,Luke Sturgeon
+2013,Umeå,Copenhagen,1001,Copenhagen,Copenhagen,0,Priyanka Kodikal
+2013,Copenhagen,Copenhagen,0,Copenhagen,Sydney,16040,Owen McFadzen
+2013,Amsterdam,Copenhagen,621,Copenhagen,Italy,1534,Zaza Zuilhof
+2013,Turin,Copenhagen,1228,Copenhagen,Istanbul,2021,Bahar Shahriari
+2013,Taipei,Copenhagen,8834,Copenhagen,Tokyo,8689,Shu Yang LIn
+2014,Santa Fe,Copenhagen,8310,Copenhagen,Copenhagen,0,Francesca Desmarais
+2014,Copenhagen,Copenhagen,0,Copenhagen,Copenhagen,0,Arun Mota
+2014,Beirut,Copenhagen,2994,Copenhagen,Amstersam,621,Samer Nakfour
+2014,New York,Copenhagen,6188,Copenhagen,Copenhagen,0,Simon Herzog
+2014,Delhi,Copenhagen,5847,Copenhagen,Copenhagen,0,Arunima Singh 
+2014,Mumbai ,Copenhagen,6419,Copenhagen,Mumbai ,6419,Yashodeep Gholap
+2014,Singapore,Copenhagen,9961,Copenhagen,Singapore,9961,Samantha Lim
+2014,Seoul,Copenhagen,7940,Copenhagen,Turin,1228,Myoungeun Kim
+2014,Taipei,Copenhagen,8834,Copenhagen,Berlin,355,Chia Yu Hsu
+2014,London,Copenhagen,955,Copenhagen,Eindhoven,663,Haz Roth
+2014,Nepal,Copenhagen,6299,Copenhagen,Boston,5886,Paula Te
+2014,San Francisco,Copenhagen,8784,Copenhagen,New York,6188,Bethany Snyder
+2014,Amsterdam,Copenhagen,621,Copenhagen,Singapore,9961,Akarsh Sanghi
+2014,Copenhagen,Copenhagen,0,Copenhagen,Munich,841,Claudia Ciarpella
+2014,Zurich,Copenhagen,963,Copenhagen,San Francisco,8784,Julian Kraan
+2014,Amsterdam ,Copenhagen,621,Copenhagen,Singapore,9961,Akarsh Sanghi
+2014,Amsterdam,Copenhagen,621,Copenhagen,Manchester,983,Martino Bilello
+2015,Boston,Copenhagen,5886,Copenhagen,Boston,5886,Karan Chaitanya Mudgal
+2015,Moscow,Copenhagen,1560,Copenhagen,Moscow,1560,Sergey Komardenkov
+2015,Bangalore,Copenhagen,7264,Copenhagen,Copenhagen,0,Dhruv Saxena
+2015,Melbourne,Copenhagen,15986,Copenhagen,Copenhagen,0,Sudhanshu Gautam
+2015,London,Copenhagen,955,Copenhagen,Copenhagen,0,Manu Dixit
+2015,Toronto,Copenhagen,6249,Copenhagen,Toronto,6249,Michael-Owen Liston
+2015,Copenhagen,Copenhagen,0,Copenhagen,Copenhagen,0,Kåre MS Solvåg
+2015,Lyon,Copenhagen,1227,Copenhagen,Copenhagen,0,Shruti KNR
+2015,Copenhagen,Copenhagen,0,Copenhagen,Amsterdam,621,Andreas Refsgaard
+2015,London,Copenhagen,955,Copenhagen,Copenhagen,0,John Ferreira
+2015,Mumbai,Copenhagen,6419,Copenhagen,Mumbai,6419,Vihanga Gore
+2015,Tokyo,Copenhagen,8689,Copenhagen,Copenhagen,0,Ciarán Duffy
+2015,Tel Aviv,Copenhagen,3140,Copenhagen,Copenhagen,0,Inbal Lieblich
+2015,Cupertino,Copenhagen,8816,Copenhagen,Amsterdam,621,Pierluigi Dalla Rosa
+2015,Shenzhen,Copenhagen,8640,Copenhagen,Shanghai,8252,Haoyu Li
+2015,Amsterdam ,Copenhagen,621,Copenhagen,Eindhoven,663,Gunes Kantaroglu
+2015,Frankfurt am Main,Copenhagen,671,Copenhagen,Chicago,6839,Victoria Hammel
+2015,Mexico City,Copenhagen,9509,Copenhagen,Copenhagen,0,Alejandra Molina
+2015,Los Gatos,Copenhagen,8822,Copenhagen,Copenhagen,0,Sierra Nelmes
+2015,New York,Copenhagen,6188,Copenhagen,Copenhagen,0,Chelsey Wickmark
+2015,Berlin,Copenhagen,355,Copenhagen,Berlin,355,Liliana Lambriev
+2015,Oslo,Copenhagen,483,Copenhagen,Copenhagen,0,Håvard Lundberg
+2016,Aarhus,Copenhagen,156,Copenhagen,,,Dario Loerke
+2016,Cairo,Copenhagen,3207,Copenhagen,,,Mary Mikhail
+2016,New York,Copenhagen,6188,Copenhagen,,,Leila Byron
+2016,Montreal,Copenhagen,5781,Copenhagen,,,Charlie Gedeon
+2016,Lisbon,Copenhagen,2477,Copenhagen,,,Inês Araújo
+2016,Eindhoven,Copenhagen,663,Copenhagen,,,Daan Weijers
+2016,Antwerp,Copenhagen,732,Copenhagen,,,Justine Syen
+2016,Paris,Copenhagen,1026,Copenhagen,,,Cyrus Kamath
+2016,San Francisco,Copenhagen,8784,Copenhagen,,,Grishma Rao
+2016,Bremen,Copenhagen,377,Copenhagen,,,Jivitesh Ranglani
+2016,Zurich,Copenhagen,963,Copenhagen,,,Sophie Chow
+2016,Stuttgart,Copenhagen,800,Copenhagen,,,Bjørn Karmann
+2016,Munich,Copenhagen,841,Copenhagen,,,Kate Twomey
+2016,Warsaw,Copenhagen,671,Copenhagen,,,Monika Seyfried
+2016,Tokyo,Copenhagen,8689,Copenhagen,,,Mikio Kiura
+2016,Eindhoven,Copenhagen,663,Copenhagen,,,Luuk Rombouts
+2016,London,Copenhagen,955,Copenhagen,,,Luca Mustacchi
+2016,Zagreb,Copenhagen,1122,Copenhagen,,,Iskra Uscumlic
